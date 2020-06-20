@@ -1,2 +1,2 @@
-# python_utils
-Coletânea de classes interessantes em Python
+# Python Utils
+Coletânea pessoal de classes interessantes em Python
